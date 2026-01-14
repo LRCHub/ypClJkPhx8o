@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "One Beer",
+  "base_artist": "MF DOOM",
+  "createdAt": "2026-01-14T04:47:15.318722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Beer (feat. Lauren Alaina & Devin Dawson)",
+      "artist": "HARDY feat. Lauren Alaina & Devin Dawson",
+      "has_synced": true,
+      "path": "select/01_One_Beer_(feat._Lauren_Alaina_&_Devin_Dawson)_HARDY_feat._Lauren_Alaina_&_Devin_Dawson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/02_ONE_BEER_(feat._Lauren_Alaina_&_Devin_Dawson)_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Beer",
+      "artist": "Austin Hardy",
+      "has_synced": false,
+      "path": "select/03_One_Beer_Austin_Hardy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Beer",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/04_One_Beer_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer",
+      "artist": "John Lee Hooker",
+      "has_synced": true,
+      "path": "select/05_One_Bourbon,_One_Scotch,_One_Beer_John_Lee_Hooker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": true,
+      "path": "select/06_One_Bourbon,_One_Scotch,_One_Beer_George_Thorogood_&_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer (Live)",
+      "artist": "George Thorogood And The Destroyers",
+      "has_synced": false,
+      "path": "select/07_One_Bourbon,_One_Scotch,_One_Beer_(Live)_George_Thorogood_And_The_Destroyers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer - Live",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": true,
+      "path": "select/08_One_Bourbon,_One_Scotch,_One_Beer_-_Live_George_Thorogood_&_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer",
+      "artist": "George Thorogood And The Destroyers",
+      "has_synced": true,
+      "path": "select/09_One_Bourbon,_One_Scotch,_One_Beer_George_Thorogood_And_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer",
+      "artist": "John Lee Hooker",
+      "has_synced": false,
+      "path": "select/10_One_Bourbon,_One_Scotch,_One_Beer_John_Lee_Hooker.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": true,
+      "path": "select/11_One_Bourbon,_One_Scotch,_One_Beer_George_Thorogood_&_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Beer",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/12_One_Beer_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Scotch, One Bourbon, One Beer",
+      "artist": "Amos Milburn",
+      "has_synced": true,
+      "path": "select/13_One_Scotch,_One_Bourbon,_One_Beer_Amos_Milburn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "artist": "Hardy, Lauren Alaina, Devin Dawson",
+      "has_synced": true,
+      "path": "select/14_ONE_BEER_(feat._Lauren_Alaina_&_Devin_Dawson)_Hardy,_Lauren_Alaina,_Devin_Dawson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Bourbon, One Scotch, One Beer",
+      "artist": "George Thorogood",
+      "has_synced": true,
+      "path": "select/15_One_Bourbon,_One_Scotch,_One_Beer_George_Thorogood.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Beer",
+      "artist": "MF Doom",
+      "has_synced": false,
+      "path": "select/pl_01_One_Beer_MF_Doom.txt"
+    }
+  ]
+}
